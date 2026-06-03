@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a Software developer at Databrandix ⚡<br>
 Building scalable and user-centric web applications using Next.js + React .⚡<br>Dedicated to clean code, maintainable architecture, and efficient system design .🧠<br>Driven by continuous learning, problem-solving, and performance optimization. 🧠<br>On a journey to becoming a well-rounded full-stack engineer .🚀
 
 ## 🌐 Socials:
