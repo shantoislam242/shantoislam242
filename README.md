@@ -1,6 +1,6 @@
 # 💫 About Me:
 A Software developer at Databrandix ⚡<br>
-Building scalable and user-centric web applications using Next.js + React .⚡<br>Dedicated to clean code, maintainable architecture, and efficient system design .🧠<br>Driven by continuous learning, problem-solving, and performance optimization. 🧠<br>On a journey to becoming a well-rounded full-stack engineer .🚀
+Dedicated to clean code, maintainable architecture, and efficient system design .🧠<br>Driven by continuous learning, problem-solving, and performance optimization. 🧠<br>On a journey to becoming a well-rounded full-stack engineer .🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)][![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesolivant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanto-web-dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thevoldemort) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/The_voldemortt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantoislam1357@gmail.com) 
