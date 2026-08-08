@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Software developer at Databrandix ⚡<br>
+Software developer at Databrandix ⚡<br>
 Dedicated to clean code, maintainable architecture, and efficient system design .🧠<br>Driven by continuous learning, problem-solving, and performance optimization. 🧠<br>On a journey to becoming a well-rounded full-stack engineer .🚀
 
 ## 🌐 Socials:
