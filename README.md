@@ -83,7 +83,7 @@ As a **Software Development Team Lead**, I contribute to:
 Contributed to the development of the official **Sonargaon University web ecosystem**, including the main university website and multiple departmental websites.
 
 **Technologies:**  
-`Next.js` `React` `TypeScript` `Tailwind CSS` `SEO` `CMS` `Cloudflare` `Vercel`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `SEO` `CMS` `Cloudflare` `Hostinger Vps` `PostgreSQL`
 
 ### 🏛️ Departmental Websites
 
