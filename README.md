@@ -18,12 +18,12 @@ I enjoy working on **clean architecture, maintainable code, performance optimiza
 
 Currently, I'm growing as a **Full-Stack Engineer** while exploring AI-powered software development and scalable backend systems.
 
-- 💼 Software Developer at **Databrandix**
-- 👥 Software Development Team Lead
-- 🌐 Experienced in large-scale web platforms
-- ⚡ Focused on performance, scalability & clean architecture
-- 🤖 Exploring AI-assisted software development
-- 📚 Always learning and improving
+-  Software Developer at **Databrandix**
+-  Software Development Team Lead
+-  Experienced in large-scale web platforms
+-  Focused on performance, scalability & clean architecture
+-  Exploring AI-assisted software development
+-  Always learning and improving
 
 ---
 
