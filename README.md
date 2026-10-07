@@ -67,12 +67,12 @@ Working on modern digital platforms, web applications, and technology-driven sol
 
 As a **Software Development Team Lead**, I contribute to:
 
-- 👥 Development team coordination
-- 🏗️ Technical planning and architecture
-- 🔍 Code quality and development standards
-- 🚀 Deployment and production workflows
-- 🧩 Building reusable and maintainable systems
-- 🤝 Collaboration between development, design and business teams
+-  Development team coordination
+-  Technical planning and architecture
+-  Code quality and development standards
+-  Deployment and production workflows
+-  Building reusable and maintainable systems
+-  Collaboration between development, design and business teams
 
 ---
 
