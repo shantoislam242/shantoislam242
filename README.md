@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Software Developer at Databrandix**, focused on building modern, scalable, and production-ready web applications.
 
