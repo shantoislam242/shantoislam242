@@ -138,7 +138,7 @@ Interested in **Large Language Models, Retrieval-Augmented Generation (RAG), QLo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shantoislam242&theme=flat&no-frame=true&margin-w=6&column=4" width="100%" alt="GitHub Trophies" />
+<img src="./trophy.svg" width="20%" alt="GitHub Trophies" />
 
 </div>
 
