@@ -78,14 +78,12 @@ As a **Software Development Team Lead**, I contribute to:
 
 ## 🌐 Selected Work
 
-### 🎓 Sonargaon University Digital Platform
-
-Contributed to the development of the official **Sonargaon University web ecosystem**, including the main university website and multiple departmental websites.
+### 🎓 Sonargaon University Official Website.
 
 **Technologies:**  
 `Next.js` `React` `TypeScript` `Tailwind CSS` `SEO` `CMS` `Cloudflare` `Hostinger Vps` `PostgreSQL`
 
-### 🏛️ Departmental Websites
+### 🏛️ 13 Departmental Websites
 
 Designed and developed modern websites for multiple academic departments with:
 
