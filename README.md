@@ -100,16 +100,6 @@ Interested in **Large Language Models, Retrieval-Augmented Generation (RAG), QLo
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-- 🔭 Building production-ready web applications
-- 🏗️ Improving system architecture and backend engineering
-- ⚡ Optimizing application performance
-- 🤖 Exploring AI-powered development workflows
-- ☁️ Working with modern deployment and cloud technologies
-- 📚 Continuously improving my software engineering skills
-
----
 
 ## 📊 GitHub Activity
 
